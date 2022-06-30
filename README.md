@@ -6,7 +6,7 @@
 > 🌱 I'm looking to collaborate on DevOps
 > 👯 I'm looking for help with SRE
 > 📫 I'm presently learning automation/ scripting
-> 😄 Ask me about #DSA #DevOps #Java #Full stack #Cloud
+> 😄 Ask me about #DSA #DevOps #Java #Cloud #Devops
 ```
 
 ## 🌐Socials
