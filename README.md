@@ -2,11 +2,11 @@
 
 # 💫About Me :
 ``` sh
-> 🔭 I'm currently working on Full Stack 
+> 🔭 I'm currently working on Backend (Django)
 > 🌱 I'm looking to collaborate on DevOps
-> 👯 I'm looking for help with SRE
-> 📫 I'm presently learning automation/ scripting
-> 😄 Ask me about #DSA #DevOps #Java #Cloud #Devops
+> 👯 I'm looking for help with SRE & AWS
+> 📫 I'm presently learning automation/ scripting/ Monitoring
+> 😄 Ask me about #DSA #DevOps #Java #Cloud #Backend #Architecture
 ```
 
 ## 🌐Socials
