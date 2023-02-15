@@ -13,7 +13,7 @@
 - 📝  I'm also a blogger at hashnode and showwcase
 - ⚡  Warming up for GSoC-2023
 
-###### I mainly work in DevOps and Flutter where I am mostly intrested in Android Development and learn new DevOps tools to understand how the Software Engineering cycle works. Along with that, I also maintain an open source project "Open Source wit Hasnain" which is completely intented for beginners who are new to open source or just getting started with it. They can get thousands of resourcs for free from there.
+###### I mainly work in DevOps and Flutter where I am mostly intrested in Android Development and learn new DevOps tools to understand how the Software Engineering cycle works. Along with that, I also maintain an open source project "Ventfox" which is completely intented for beginners who are new to open source or just getting started with it. They can get thousands of resourcs for free from there.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radiant690&label=Profile%20views&color=0e75b6&style=flat" alt="radiant690" /> </p>
