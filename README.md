@@ -13,5 +13,6 @@ Exploring lots of new tech including GenAI (LangChain) & Open Table Formats (Ice
 - Python
 - REST APIs
 - Algorithms & Data Structures
-📫 How to reach me: ...
+
+📫 How to reach me:
 venkatasaikadamati@gmail.com
