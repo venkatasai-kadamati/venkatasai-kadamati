@@ -9,7 +9,7 @@ Exploring lots of new tech including GenAI (LangChain) & Open Table Formats (Ice
 
 ⚡ I am comfortable with...
 - Java
-- Javascript
+- Golang
 - Python
 - REST APIs
 - Algorithms & Data Structures
